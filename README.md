@@ -11,7 +11,7 @@ The 'AlSi10Mg' folder includes images related to silicon network and two types o
 
 Thanks for kind help from staff of The Mechanical Technology Faculty of Silesian University of Technology (SUT) in Poland; Professor Tomasz Tanski provided permission to use the laboratory and microscopic devices to capture images; Professor Zbigniew Brytan and Mengistu Jemberu Dagnaw provided SDSS2507 sample, and Professor Marcin Staszuk helped with images capture; Doctor Anna Wozniak provided ZK60Mg sample; Augustine Appiah provided AlSi10Mg sample and helped with images capture.
 
-Additionally, we also appreciate assistance and promotion from Professor James Ren, Liverpool John Moores University, United Kindom, for the project collaboration, and all support from EU Horizon 2020, UK government, Silesian University of Technology Poland and Edge Hill University UK.
+Additionally, we also appreciate assistance and promotion from Professor James Ren, Liverpool John Moores University, United Kindom, for the project collaboration, and all support from EU Horizon 2020, UK Research and Innovation, Silesian University of Technology Poland and Edge Hill University UK.
 
 **Funding:** The research was funded by The European Union’s Horizon 2020 Research and Innovation
 Programme under the Marie Skłodowska-Curie Actions grant agreement (No. 101129996) and UKRI
